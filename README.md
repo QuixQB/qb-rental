@@ -14,8 +14,8 @@ If you have any questions or need support, don't hesitate to reach out by openin
 
 ### Step 1: Download
 
-1. Download the `qb-rental` script and place it in your `[resource]` folder.
-and thats it!
+1. Download the `qb-rental-main` extract the script and place it in your `[resource]` folder.
+2. Rename qb-rental-main to qb-rental.
 
 ### Step 2: Configuration
 
